@@ -1,0 +1,39 @@
+li{
+    color: black;
+    padding: 10px;
+    padding-left: 100px;
+    font-size: 30px;
+    border-bottom: solid;
+    padding-top: 25px;
+    color:black;
+}
+li:hover{
+    background: white;
+    transition-timing-function: ease-in;
+    transition: 0.3s;
+    color:teal;
+}
+ul{
+    list-style: square;
+    border: solid;
+    margin-top: 30px;
+}
+li { display: list-item; }
+.hello{
+    padding-left: 300px;
+}
+
+.selected{
+    color: green;
+    padding-left: 300px;
+}
+
+.rejected{
+    color:red;
+    padding-left: 300px;
+}
+
+div.events.page_section{
+    background: grey;
+}
+
